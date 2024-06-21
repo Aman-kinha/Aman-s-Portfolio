@@ -552,7 +552,7 @@ li a:hover::after {
         color: rgb(250, 166, 9);
 
         &:hover {
-            font-size: 45px;
+            font-size: 40px;
         }
     }
 
@@ -602,7 +602,8 @@ li a:hover::after {
     }
 
     .sam1 {
-        height: 475px;
+        height: 850px;
+        border: solid red;
     }
 
     .mline {
