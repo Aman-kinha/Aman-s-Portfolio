@@ -511,14 +511,14 @@ li a:hover::after {
 
     .mainimg {
         top: 10px;
-        height: 231px;
-        width: 220px;
+        height: 251px;
+        width: 240px;
         left: 10px;
     }
 
     .mainimg:hover {
-        height: 241px;
-        width: 230px;
+        height: 271px;
+        width: 260px;
     }
 
     .upper_writing {
