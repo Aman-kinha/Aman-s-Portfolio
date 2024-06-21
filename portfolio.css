@@ -536,10 +536,10 @@ li a:hover::after {
     }
 
     #nm {
-        font-size: x-large;
+        font-size: xx-large;
 
         &:hover {
-            font-size: xx-large;
+            font-size: 80px;
         }
     }
 
