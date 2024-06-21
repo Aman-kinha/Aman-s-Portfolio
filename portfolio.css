@@ -524,6 +524,7 @@ li a:hover::after {
         left: 16px;
         top: 259px;
         font-size: smaller;
+        border: solid red;
     }
 
     .upper_writing:hover {
