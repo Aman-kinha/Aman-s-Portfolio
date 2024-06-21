@@ -539,7 +539,7 @@ li a:hover::after {
         font-size: xx-large;
 
         &:hover {
-            font-size: 30px;
+            font-size: 45px;
         }
     }
 
@@ -548,16 +548,16 @@ li a:hover::after {
     }
 
     .edu {
-        font-size: x-large;
+        font-size: xx-large;
         color: rgb(250, 166, 9);
 
         &:hover {
-            font-size: xx-large;
+            font-size: 45px;
         }
     }
 
     #ed {
-        font-size: small;
+        font-size: medium;
     }
 
     .calleffect {
@@ -590,7 +590,7 @@ li a:hover::after {
         width: 140px;
         height: 27px;
          top: 662px;
-        left: 275px;
+        left: 265px;
     }
 
     .mail {
