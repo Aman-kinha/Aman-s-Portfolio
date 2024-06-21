@@ -509,28 +509,28 @@ li a:hover::after {
 
     .mainimg {
         top: 10px;
-        height: 171px;
-        width: 160px;
+        height: 221px;
+        width: 210px;
         left: 10px;
     }
 
     .mainimg:hover {
-        height: 181px;
-        width: 170px;
+        height: 231px;
+        width: 220px;
     }
 
     .upper_writing {
         width: 230px;
         height: 408px;
         left: 16px;
-        top: 392px;
+        top: 362px;
         font-size: smaller;
         
     }
 
     .upper_writing:hover {
-        width: 190px;
-        height: 285px;
+        width: 240px;
+        height: 418px;
     }
 
     #nm {
@@ -569,7 +569,7 @@ li a:hover::after {
     }
 
     .callimg {
-        top: 408px;
+        top: 712px;
         left: 283px;
         height: 58px;
         width: 66px;
