@@ -504,6 +504,7 @@ li a:hover::after {
 
     .section1 {
         height: 850px;
+        border: solid red;
     }
 
     .mainimg {
@@ -519,12 +520,12 @@ li a:hover::after {
     }
 
     .upper_writing {
-        width: 180px;
-        height: 308px;
+        width: 230px;
+        height: 408px;
         left: 16px;
-        top: 259px;
+        top: 392px;
         font-size: smaller;
-        border: solid red;
+        
     }
 
     .upper_writing:hover {
@@ -569,7 +570,7 @@ li a:hover::after {
 
     .callimg {
         top: 408px;
-        left: 233px;
+        left: 283px;
         height: 58px;
         width: 66px;
         background-size: 100px;
