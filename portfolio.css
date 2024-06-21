@@ -503,26 +503,26 @@ li a:hover::after {
 @media screen and (max-width: 700px) {
 
     .section1 {
-        height: 880px;
+        height: 850px;
     }
 
     .mainimg {
         top: 10px;
-        height: 151px;
-        width: 140px;
+        height: 171px;
+        width: 160px;
         left: 10px;
     }
 
     .mainimg:hover {
-        height: 161px;
-        width: 150px;
+        height: 181px;
+        width: 170px;
     }
 
     .upper_writing {
         width: 180px;
-        height: 275px;
+        height: 308px;
         left: 16px;
-        top: 183px;
+        top: 259px;
         font-size: smaller;
     }
 
