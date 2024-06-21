@@ -501,7 +501,9 @@ li a:hover::after {
 }
 
 @media screen and (max-width: 700px) {
-
+     .taskbar{
+        left: 70%;
+    }
     .section1 {
         height: 850px;
         border: solid red;
@@ -542,15 +544,15 @@ li a:hover::after {
     }
 
     .goal {
-        font-size: small;
+        font-size: medium;
     }
 
     .edu {
-        font-size: large;
+        font-size: x-large;
         color: rgb(250, 166, 9);
 
         &:hover {
-            font-size: x-large;
+            font-size: xx-large;
         }
     }
 
