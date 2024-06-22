@@ -609,7 +609,7 @@ li a:hover::after {
     .mline {
         width: 400px;
         top: 237px;
-        left: -12%;
+        left: 50vh;
     }
 
     #lline {
