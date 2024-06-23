@@ -525,7 +525,7 @@ li a:hover::after {
         width: 230px;
         height: 408px;
         left: 16px;
-        top: 362px;
+        top: 40vh;
         font-size: smaller;
         
     }
