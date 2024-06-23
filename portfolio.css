@@ -602,7 +602,7 @@ li a:hover::after {
     }
 
     .sam1 {
-        height: 850px;
+        height: 100vh;
         border: solid red;
     }
 
