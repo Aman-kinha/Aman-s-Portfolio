@@ -501,7 +501,7 @@ li a:hover::after {
 }
 
 @media screen and (max-width: 100vh) {
-     .taskbar{
+    .taskbar{
         left: 70%;
     }
     .section1 {
@@ -510,24 +510,21 @@ li a:hover::after {
     }
 
     .mainimg {
-        top: 10px;
-        height: 251px;
-        width: 240px;
-        left: 10px;
+        top: 2vh;
+        height: 25vh;
+        width: 24vh;
+        left: 2vh;
+        &:hover {
+            height: 27vh;
+            width: 26vh;
+        }
     }
-
-    .mainimg:hover {
-        height: 271px;
-        width: 260px;
-    }
-
     .upper_writing {
-        width: 230px;
-        height: 408px;
-        left: 16px;
-        top: 40vh;
+        width: 29vh;
+        left: 3vh;
         font-size: smaller;
-        
+        height: 50vh;
+        top: 33vh;
     }
 
     .upper_writing:hover {
@@ -571,8 +568,8 @@ li a:hover::after {
     }
 
     .callimg {
-        top: 712px;
-        left: 298px;
+        top: 76vh;
+        left: 34vh;
         height: 58px;
         width: 66px;
         background-size: 100px;
@@ -589,8 +586,8 @@ li a:hover::after {
     .det {
         width: 140px;
         height: 27px;
-         top: 662px;
-        left: 265px;
+        top: 70vh;
+        left: 32vh;
     }
 
     .mail {
@@ -609,7 +606,7 @@ li a:hover::after {
     .mline {
         width: 400px;
         top: 237px;
-        left: 50vh;
+        left: -1vh;
     }
 
     #lline {
