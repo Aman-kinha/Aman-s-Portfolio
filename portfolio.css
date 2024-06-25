@@ -501,9 +501,10 @@ li a:hover::after {
 }
 
 @media screen and (max-width: 100vh) {
-    .taskbar{
+    .taskbar {
         left: 70%;
     }
+
     .section1 {
         height: 100vh;
         border: solid red;
@@ -514,11 +515,13 @@ li a:hover::after {
         height: 25vh;
         width: 24vh;
         left: 2vh;
+
         &:hover {
             height: 27vh;
             width: 26vh;
         }
     }
+
     .upper_writing {
         width: 29vh;
         left: 3vh;
@@ -605,99 +608,121 @@ li a:hover::after {
 
     .mline {
         width: 80vh;
-    top: 47vh;
-    left: -17vh;
+        top: 47vh;
+        left: -17vh;
     }
-    }
-    .skills{
+
+    .skills {
         top: 30vh;
     }
+
     #lline {
         width: 20vh;
     }
 
     .lline1 {
         left: 2vh;
-        top: 76px;
+        top: 18vh;
     }
 
     .lline2 {
         left: 2vh;
-        top: 332px;
+        top: 73vh;
     }
 
     .rline1 {
-        top: 190px;
+        top: 49vh;
         left: 24vh;
     }
-
-    #hea {
-        font-size: large;
+    
+    .skills {
+        position: relative;
+        width: 21vh;
+        height: 28vh;
+        top: 19vh;
+        left: 1vh;
     }
-
+    
     .skls {
-        top: 90px;
-        left: 3%;
+        font-size: 3.5vh;
+        top: 0vh;
+        left: 0vh;
     }
 
     #skl {
-        font-size: xx-small;
-        left: 3%;
+        font-size: 2vh;
+        left: 2vh;
     }
 
     .skill1 {
-        top: 130px;
+        top: 7vh;
     }
 
     .skill2 {
-        top: 174px;
+        top: 11.5vh;
     }
 
     .skill3 {
-        top: 219px;
+        top: 21vh;
     }
 
     .skill4 {
-        top: 262px;
+        top: 27vh;
+    }
+    .address{
+        position: relative;
+        height: 12vh;
+    width: 21vh;
+    top: 24vh;
+    left: 1vh;
     }
 
     .addr {
-        left: 3%;
-        top: 346px;
+        left: 0vh;
+        top: 0vh;
+        font-size: 3.5vh;
     }
 
     #addre {
-        font-size: xx-small;
+        font-size: 2vh;
         left: 3%;
     }
 
     .addl1 {
-        top: 385px;
+        top: 5vh;
     }
 
     .addl2 {
-        top: 407px;
+        top: 8vh;
     }
+    .achievements{
+        position: relative;
+    height: 22vh;
+    width: 19vh;
+    left: 24vh;
+    top: 22vh;
+  }
 
     .ach {
-        left: 25vh;
-        top: 202px;
+        font-size: 3vh;
+        left: 0vh;
+        top: 0vh;
     }
 
     #achi {
-        font-size: xx-small;
-        left: 25vh;
+        font-size: 2vh;
+        left: 0vh;
     }
 
     .achl1 {
-        top: 240px;
+        top: 4vh;
     }
 
     .achl2 {
-        top: 265px;
+        top: 10vh;
     }
 
     .achl3 {
-        top: 300px;
+        top: 16vh;
     }
 }
