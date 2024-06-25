@@ -604,27 +604,31 @@ li a:hover::after {
     }
 
     .mline {
-        width: 400px;
-        top: 237px;
-        left: -1vh;
+        width: 80vh;
+    top: 47vh;
+    left: -17vh;
     }
-
+    }
+    .skills{
+        top: 30vh;
+    }
     #lline {
-        width: 150px;
+        width: 20vh;
     }
 
     .lline1 {
-        left: 3%;
+        left: 2vh;
         top: 76px;
     }
 
     .lline2 {
-        left: 3%;
+        left: 2vh;
         top: 332px;
     }
 
     .rline1 {
         top: 190px;
+        left: 24vh;
     }
 
     #hea {
@@ -676,13 +680,13 @@ li a:hover::after {
     }
 
     .ach {
-        left: 166px;
+        left: 25vh;
         top: 202px;
     }
 
     #achi {
         font-size: xx-small;
-        left: 166px;
+        left: 25vh;
     }
 
     .achl1 {
